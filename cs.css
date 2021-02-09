@@ -1,0 +1,23 @@
+body
+{
+	background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/marvel-cinematic-universe-order-1601976266.jpg?crop=1.00xw:0.753xh;0,0.0416xh&resize=1200:*);
+
+}
+
+p
+{
+	font-size: 45px;
+	color: white;
+}
+
+a
+{
+	font-size: 45px;
+	color: white;
+}
+
+a:hover
+{
+	color:blue ;
+	
+}

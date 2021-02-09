@@ -1,0 +1,90 @@
+body
+{
+	background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2bfeba6d-93a7-4923-b3cb-7d528366438e/d1z5l02-95d07da5-f8ab-40d8-85e8-9f5840ff8e11.jpg/v1/fill/w_800,h_1237,q_75,strp/ironman_movie_poster_1_by_tonyfbaby_d1z5l02-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMmJmZWJhNmQtOTNhNy00OTIzLWIzY2ItN2Q1MjgzNjY0MzhlXC9kMXo1bDAyLTk1ZDA3ZGE1LWY4YWItNDBkOC04NWU4LTlmNTg0MGZmOGUxMS5qcGciLCJoZWlnaHQiOiI8PTEyMzciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLndhdGVybWFyayJdLCJ3bWsiOnsicGF0aCI6Ilwvd21cLzJiZmViYTZkLTkzYTctNDkyMy1iM2NiLTdkNTI4MzY2NDM4ZVwvdG9ueWZiYWJ5LTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.yCWJNULzLCnE8edURN423pTOp6JJbgyazjpO37JQhA8");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color:black;
+	color: red;
+}
+
+.a
+{
+	font-size: 25px;
+	color: yellow;
+}
+.a:hover
+{
+	color: red;
+}
+.h
+{
+	color: #A93226 ;
+	font-size: 30px;
+	text-align: center;
+}
+ul#list li 
+{
+	display: inline;
+}
+div#p div
+{
+	display: inline-block;
+}
+
+.ps
+{
+	color: white;
+	font-size: 25px;
+}
+.f
+{
+	background-color: red;
+	color: black;
+	text-align: right;
+	font-size: 20px;
+	opacity: 0.8;
+}
+
+.f:hover
+{
+	background-color:black;
+	color: red;
+	opacity: 1;
+}
+
+
+.fa {
+  padding: 15px;
+  font-size: 15px;
+  width: 30px;
+  text-align: left;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+.fa-instagram {
+  background: #781F74;
+  color: white;
+}
+

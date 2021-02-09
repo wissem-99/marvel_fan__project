@@ -1,0 +1,87 @@
+body
+{background-image: url(https://cdn.collider.com/wp-content/uploads/2013/04/iron-man-3-international-poster1.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: black;
+	color: red;
+}
+
+.h
+{
+	color: red;
+	font-size: 30px;
+	text-align: center;
+}
+
+ul#list li 
+{
+	display: inline;
+}
+div#p div
+{
+	display: inline-block;
+}
+.ps
+{
+	color: white;
+	font-size: 25px;
+}
+.f
+{
+	background-color: red;
+	color: black;
+	text-align: right;
+	font-size: 20px;
+	opacity: 0.8;
+}
+
+.f:hover
+{
+	background-color:black;
+	color: red;
+	opacity: 1;
+}
+
+
+.fa {
+  padding: 15px;
+  font-size: 15px;
+  width: 30px;
+  text-align: left;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.fa-instagram {
+  background: #781F74;
+  color: white;
+}
+
+.a
+{
+	font-size: 25px;
+	color: yellow;
+}
+.a:hover
+{
+	color: red;
+}

@@ -1,0 +1,99 @@
+
+body
+{
+	background-image: url("https://i.pinimg.com/736x/ac/bd/d3/acbdd3ce254856e5c0728542d6abd5f2.jpg");
+
+	background-size: 100%;
+	background-color:#9B060A  ;
+	color:red
+}
+
+.a
+{
+	font-size: 25px;
+	color: white;
+}
+.a:hover
+{
+	color:  #1EDAF7  ;
+}
+.h
+{
+	color:red ;
+	font-size: 40px;
+	text-align: center;
+}
+ul#list li 
+{
+	display: inline;
+}
+div#p div
+{
+	display: inline-block;
+}
+
+.ps
+{
+	color: white;
+	font-size: 25px;
+}
+.f
+{
+	background-color: white;
+	color: #1EDAF7   ;
+	text-align: right;
+	font-size: 20px;
+	opacity: 0.6;
+}
+
+.f:hover
+{
+	background-color:  #1EDAF7   ;
+	color: white;
+	opacity: 1;
+}
+
+
+.fa {
+  padding: 15px;
+  font-size: 15px;
+  width: 30px;
+  text-align: left;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+.fa-instagram {
+  background: #781F74;
+  color: white;
+}
+
+.t
+{
+	opacity: 0.5;
+}
+.t:hover
+{
+	opacity: 1;
+}

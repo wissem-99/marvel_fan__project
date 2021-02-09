@@ -1,0 +1,110 @@
+
+
+body
+{
+	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNxzji7p5U5y3Mgjoz4bHbW3ikDWDYa9PAgQ&usqp=CAU");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: black;
+	color: black;
+	font-size: 20px;
+}
+input[type=text],input[type="password"],input[type="email"],input[type="number"]
+	{
+		width: 20%;
+		padding: 12px 20px;
+		margin: 5px 0;
+		display: inline-block;
+		border :1px solid #ccc;
+		box-sizing: border-box;}
+
+
+.h{
+	background-color: red;
+	color: #fff;
+
+}
+label,p
+{
+	color: white;
+}
+
+.h:hover
+{
+	background-color: #fff;
+	color: red;
+	font-size: 30px;
+
+}
+
+.f
+{
+	background-color: red;
+	color: white;
+	text-align: right;
+	font-size: 20px;
+	opacity: 0.8;
+}
+
+.f:hover
+{
+	background-color:white;
+	color: red;
+	opacity: 1;
+}
+
+.b
+{
+	color: red;
+	background-color: #fff;
+	cursor: pointer;
+	font-size: 30px;
+	font-family:italic;
+
+}
+
+.b:hover
+{
+	color: #fff;
+	background-color: red;
+	transition: 2s;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 15px;
+  width: 30px;
+  text-align: left;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+.fa-instagram {
+  background:  #781F74;
+  color: white;
+}
+#demo 
+{
+	color: red;
+}

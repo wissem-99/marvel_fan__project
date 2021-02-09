@@ -1,0 +1,106 @@
+.tablink
+{
+	background-color:#555;
+	color:white;
+	float: left;
+	outline: none;
+	cursor: pointer;
+	padding: 14px 16px;
+	font-size: 17px;
+	width: 33.33%;
+}
+.tablink:hover 
+{
+	background-color: #777;
+}
+.panel
+{
+	display: none;
+}
+.tabcontent
+{
+	display: none;
+	color: black;
+	padding: 100px 20px;
+	height: 100%;
+}
+
+.h
+{
+	color: black;
+	font-size: 40px;
+}
+
+.intro
+{
+
+	color:red;
+	font-size: 27px;
+	font-family: italic;
+}
+a{
+	color: black;
+	font-size: 20px;
+
+}
+
+
+.accordion
+{
+	background-color: red;
+color: white;
+cursor: pointer;
+width: 100%;
+border: none;
+text-align: left;
+outline: none;
+font-size: 25px;
+transition: 2s;}
+
+.accordion:hover
+{
+	background-color: white;
+	color: red;
+}
+
+.accordion:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 20px;
+  color: black;
+  float: right;
+  margin-left: 5px;
+}
+
+.accordion.active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+.flimcolor{
+	color: white;
+}
+.flimcolor:hover
+{
+	color: red;
+}
+h2{color: red;}
+
+body { background-color:#85C1E9 ; }
+
+
+.lien:hover
+{
+	color:white;
+}
+
+
+.pf
+{
+	color: black;
+	font-size: 25px;
+	font-family: italic;
+}
+
+.ques
+{
+	color: red;
+	font-size: 28px;
+}

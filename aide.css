@@ -1,0 +1,15 @@
+body
+{
+	background-image: url("image/img9.jpg");
+	background-repeat: no-repeat;
+	background-size:100%;
+	color: red;
+	}
+.b
+{
+	cursor: pointer;
+	text-align: left;
+	background-color: yellow;
+	border-radius: 50%;
+	border-color: red;
+}

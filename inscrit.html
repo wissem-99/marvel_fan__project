@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>INSCRIPTION</title>
+</head>
+<link rel="stylesheet" type="text/css" href="insrit.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script type="text/javascript" src="inscrit.js"></script>
+
+<body>
+	<form method="POST" action="inscrit.php" name="f">
+		<header class="h">
+		</header>
+<label for="nom">Name :</label> <br>
+<input type="text" name="t1" required maxlength="30" id="nom"> </br></br>
+
+<label for="fn">First name :</label> <br>
+<input type="text" name="t2" required maxlength="30" id="fn"> </br></br>
+
+<label for="age"> Age :</label><br>
+<input type="number" name="t3" required max="50" min="12" id="age"> </br></br>
+
+<label for="em">E-mail:</label><br>
+<input type="email" name="t4" id="em" required ></br></br>
+
+<label for="login">Login:</label><br>
+<input type="text" name="t5" required id="login" minlength="3"> </br></br>
+
+<label for="mp">password :</label><br>
+<input type="password" name="t6" id="mp" required minlength="5" maxlength="10"> </br></br>
+
+<label for="cm"> to confirm password :</label><br>
+<input type="password" name="t7" id="cm" required minlength="5" maxlength="10"> </br></br>
+
+<p id="demo"></p>
+<input class="b" type="submit" name="b1" value="inscrier" onclick="return myFunction()" >
+<input class="b" type="reset" name="b2" value="annuler">
+</br></br>
+<footer class="f">
+	Contact Us ====>>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-instagram"></a>
+<a href="#" class="fa fa-snapchat-ghost"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	copy_right_&copy;_BMC2020
+</footer>
+</form>
+</body>
+</html>
